@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title xml:id="mm.I">Meditazione Milanese, vol. I. Edizione digitale</title>
+            <author xml:id="CEG">Carlo Emilio Gadda</author>
+            <respStmt>
+               <resp>titolare della tesi di Laurea</resp>
+               <persName xml:id="FP">Filippo Pelacci</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher xml:id="UniBO">UniBO</publisher>
+            <pubPlace>Bologna</pubPlace>
+            <date>31.10.2023</date>
+            <availability><p>Tesi di Laurea ad accesso riservato</p></availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <settlement>Milano</settlement>
+                  <repository sameAs="https://www.geonames.org/3166568/castello-sforzesco.html">Biblioteca Trivulziana</repository>
+                  <idno>Fondo Gadda-Roscioni, 6.13</idno>
+               </msIdentifier>
+               <msContents>
+                  <p>Il volume I contiene i primi sette capitoli della Meditazione milanese di Carlo Emilio Gadda, interamente realizzati tra il 2 e il 6 maggio 1928</p>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <extent> 103 cc. 
+                           <dimensions type="leaf" unit="cm">
+                              <height>27</height>
+                              <width>22</width>
+                           </dimensions>
+                        </extent>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <handNotes>
+            <handNote xml:id="penna_base">penna base</handNote>
+            <handNote xml:id="penna_nera">penna nera</handNote>
+            <handNote xml:id="lapis">lapis</handNote>
+            <handNote xml:id="matita_blu">matita blu chiaro</handNote>
+            <handNote xml:id="matita_rossa">matita rossa</handNote>
+            <handNote xml:id="matita_viola">matita violacea</handNote>
+            <handNote xml:id="penna_seppia">penna color seppia</handNote>
+         </handNotes>
+         <langUsage>
+            <language ident="ita">Italiano</language>
+         </langUsage>
+      </profileDesc>
+      <encodingDesc>
+         <p>Si codifica qui la prima stesura della Meditazione milanese, marcando i singoli interventi correttori operati dall'autore (inserimenti, cancellazioni e sostituzioni), i relativi strumenti di scrittura e i segmenti passibili di confronto con la seconda incompiuta stesura.</p>
+         <variantEncoding method="parallel-segmentation" location="internal"/>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2023-10-08" who="#FP">Ultima revisione</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p n="1.1">
+            <seg corresp="01">
+               <add place="above" hand="#lapis">Chiediamo a noi   medesimi:</add>
+            </seg>
+            «Donde comincierò?»
+            <seg corresp="02">
+               <subst><add hand="#penna_base">C</add><del>c</del></subst>i chiediamo <add hand="#penna_base">inoltre</add> se
+               è possibile <subst><add hand="#penna_base">che</add><del>ma</del></subst> un metodo <subst><add hand="#penna_base">preceda l’analisi</add><del>proceda da alcuna conoscenza</del></subst>
+               : se è doverosa una conoscenza, avanti
+               la <subst><add hand="#penna_base">determinazione del metodo.</add><del>determinazione d'alcun metodo.</del></subst>Questa perplessità 
+               <subst><add hand="#penna_base">si è palesata</add><del>è apparsa</del></subst> nelle manifestazioni del pen
+               siero: <subst><add hand="#penna_base">si</add><del>ci</del></subst> adduce, a ragione dell’incom
+               piutezza del “Tractatus de intellectus emenda<subst><add hand="#penna_base">t</add><del>z</del></subst>ione” di Benedetto Spinoza ch’egli intuisse come il fondamento della correzione non fosse se non l’idea centrale della prima parte dell’<subst><add>E</add><del>e</del></subst>tica: l’unità.
+            </seg>
+         </p>
+         <p n="1.2">La conoscenza 
+            <subst><add place="above" hand="#penna_base">centrale</add><del>implicata</del></subst> era essa il metodo. 
+            <seg corresp="03">
+               In realtà la questione, posta così schematicamente in <app><rdg hand="#penna_base">termini</rdg><rdg hand="#matita_viola">forma</rdg></app>, è falsa: un metodo è già una conoscenza <subst><add place="above" hand="#penna_base">ed elezione</add><del>e</del></subst>, presu<subst><add place="above" hand="#penna_base">me</add><del>ppone</del></subst><del>alcune</del>nozioni; <add place="above" hand="#penna_base">se</add> non<del> forse, anzi assai raramente (come</del><subst><add hand="#penna_base" type="spostamento">le nozioni centrali di un aggruppamento conoscitivo, al contrario di ciò che potrebbe mostrare l’esempio citato</add><del>se non al contrario di ciò che potrebbe mostrare l’esempio citato, le nozioni centrali di un aggruppamento conoscitivo</del></subst>, certo alcuni dati.
+            </seg>
+         </p> 
+         <p n="1.3">
+            <seg corresp="04">
+               Certamente, da un punto di vista psicologico-storico, ognuno di noi e la collettività stessa deì nostri <subst><add place ="above" hand="#penna_base">uomini</add></subst>, e il nostro genere umano, instituiscono e devono instituire l’analisi <add place="above" hand="#penna_base">mediante un processo di afairesis: molto dopo verrà l’apodeixis</add> ne’ modi e con i mezzi onde il <subst><add place="inline" hand="#penna_base">topografo</add><del rend="strikethrough">topogr</del></subst> eseguisce la triangolazione d’un territorio. Da una base nota comprendente termini sufficienti <add hand="#penna_base" place="above">(cioè angoli e distanze noti)</add>, si procede alla determinazione di punti ignoti. Questi servono alla loro volta <subst><add hand="#penna_base" place="above">come</add><del rend="strikethrough">di</del></subst> stazione per l<subst><add place="inline" hand="#penna_base">’</add><del rend="strikethrough">o</del></subst><add place="above" hand="#penna_base">ulteriore</add> sviluppo.
+            </seg>
+         </p>
+         <p n="1.4">
+            <seg corresp="05">
+               Se non che il terreno su cui il geodeta fonda il suo teodolite è, rispetto ai fini ci si propone, una salda, una univoca realità. <del rend="strikethrough">Inoltre lo sviluppo della ricerca è uniforme e consente l’uso costante di</del>Il terreno del filosofo è la mobile duna o la <subst><add place="above" hand="#penna_base">savana deglutitrice</add><del>spaventosa savana</del></subst>: o <subst><add place="inline" hand="#penna_base">meglio la tolda</add><del rend="strikethrough">più tolda</del></subst> di una nave trascinata dalla tempesta: è <subst><add place="above" hand="#penna_base">il</add><del rend="strikethrough">la tolda del</del></subst> «bateau ivre» delle <add place="above" hand="#penna_base">dissonanze umane, sul cui ponte</add>, sul cui ponte, <subst><add place="inline" hand="#penna_base">non che</add><del rend="strikethrough">dove</del></subst><app><rdg>misurare</rdg><rdg hand="#penna_base">osservare e riferire</rdg></app>, è difficile reggersi.<del rend="strikethrough">L'analisi instituita dal filosofo non si rivolge a un tipo di fenomeni, ma alla totalità dei fenomeni. I termini di misura</del>
+            </seg>
+            Questa nave viaggia mari strani e diversi: ed ora la stella è termine di riferimento, ed ora, nella buia notte, il ‘metodo’ non potrà riferirsi alla stella.</p>
+         <p n="1.5">
+            <seg corresp="06">
+               Mobile è il <subst><add place="above" hand="#penna_base">riferimento conoscitivo</add><del rend="strikethrough">l'elemento della conoscenza</del></subst> iniziale, diverso, continuamente diverso, il processo.
+            </seg>
+         </p>
+         <p n="1.6">
+            <seg corresp="07">
+               Insisto su questi due temi:
+            </seg>
+            <seg corresp="08">
+               Primo: la nostra analisi <subst><add place="above" hand="#penna_base">ha inizio</add><del rend="strikethrough">parte</del></subst> da un dato psicologico-storico (<add place="above" hand="#penna_base">cioè</add>personale-ambientale) che possiede un suo flusso, una sua velocità: <add place="above" hand="#penna_base">che è labile, mobile</add>. <add place="inline" hand="penna_base">In quanto labile in sé noi lo intuiamo per prima approssimazione come un sistema in sé, cioè come qualcosa di non semplice. In quanto mobile noi lo intuiamo per prima approssimazione come appartenente ancora a un sistema che diciamo esterno.</add><subst><add place="inline" hand="#penna_nera">Esiste</add><del>Esistere</del></subst> <add place="above" hand="#penna_nera">dunque qualcosa</add> con <subst><add>velocità</add><del>f<gap reason="illegible"/></del></subst> diversa, con forma intrinseca diversa di quella <subst><add place="inline" hand="#penna_base">in</add><del rend="strikethrough">che</del></subst> noi attualmente <subst><add place="above" hand="#penna_base">vigenti</add><del rend="strikethrough">posseduta</del></subst>: e noi desideriamo appunto misurare il divario fra il nostro dato e <subst><add place="above" hand="#penna_base">questo</add><del rend="strikethrough">l'oggetto</del></subst> inconosciuto che <subst><add place="above" hand="#penna_base">è</add><del rend="strikethrough">facciamo</del></subst> oggetto di ricerca, d’amore. 
+            </seg>
+         </p>
+         <p n="1.7">
+            <seg corresp="09">
+               Secondo: a mano a mano che il processo conoscitivo si attua, <subst><add hand="#penna_base">vengono deformandosi sia il dato psicologico-storico</add><del>sia il dato psicologico viene decomponendosi</del></subst> <add place="above" hand="#penna_base">sia il supposto sistema esterno</add> (e intendo ciò non per una mutazione storica cioè perché nel frattempo esso <subst><add place="above" hand="#penna_base">può acquistare</add><del>acquista</del></subst><add place="above" hand="#penna_base">, come di fatto acquista,</add> <add place="above" hand="#penna_base">da sé esternamente a noi</add> nuove e diverse relazioni) ma perché anche colto <add place="above" hand="#penna_base">e misurato</add> nella sua immobilità momentanea <add place="above" hand="#penna_base">, nell’essere suo di</add> un attimo, noi vi scorgiamo nuovi significati <add place="above" hand="#penna_base">cioè nuove relazioni anche attuali)</add>. <add place="above" hand="#penna_base">Così l’alpinista salendo scuopre nuovi riferimenti della cerchia di monti che lo circondano e quella che gli pareva la vetta più alta dell’acrocoro si disvela come affatto secondaria e le distanze mutano e le valli profondano, e i cumuli bianchi delle nubi paiono cosa prossima e vera.</add> Per quanto riguarda il secondo, cioè l’inconosciuto sistema, <note type="nota_d'autore">La parola sistema è qui usata nel senso che ha nelle trattazioni meccaniche ‘Sistema = Insieme di enti che godono di proprietà comuni’ sistema di punti, di rette: sistemi deformabili, sistemi rigidi.</note>l’oscuro e totale e desiderabile termine di riferimento, <add place="above" hand="#penna_base">come possiamo scorgervi deformazioni se esso è sconosciuto?</add> <add place="above" hand="#penna_base">Ma</add> la nostra fantasia (la nostra ragione, se volete): viene plasmandolo e riplasmandolo, così come il fotografo pone schermi e superfici riflettenti dietro al suo dato (il fotografando) perché i giuochi di luce <add place="above" hand="#penna_base">sien sempre migliori e più</add> giusti, e <subst><add place="inline" hand="#penna_base">consentano</add><del rend="strikethrough">pemettano</del></subst> un ritratto staccato, vivido.
+            </seg>
+         </p>
+         <p n="1.8">
+            <seg corresp="10">
+               Circa la posizione <subst><add place="inline" hand="#penna_base">del dato</add><del>di questo dato</del></subst> <add place="above" hand="#penna_base">(sistema già esso)</add> e <subst><add place="inline" hand="#penna_base">del sistema esterno</add><del>di questo sistema esterno</del></subst>, <subst><add place="inline" hand="#penna_base">circa</add><del rend="strikethrough">e</del></subst> la <add place="above" hand="#penna_base">opportunità della</add> <subst><add place="inline" hand="#penna_base">lor disgiunzione</add><del>loro distinzione</del></subst>, <add place="above" hand="#penna_nera">se necessaria o precaria o semplicemente opportuna</add> non voglio qui dire: <subst><add hand="#penna_base" place="inline">noto</add><del rend="strikethrough">rimarco</del></subst> il fatto e lo giustifico <subst><add place="above" hand="#penna_base">storicamente</add><del rend="strikethrough">nel senso che</del></subst> perciò che il dato almeno in qualche modo ci urta, cioè qualcosa sia pure imperfettamente <add place="above" hand="#penna_base">e malamente</add> ne conosciamo <add place="above" hand="#penna_base">realiter</add>: <add place="above" hand="#penna_nera">e ne conosciamo per forza anche a non volerlo:</add> il sistema esterno è ignoto e <add place="above" hand="#penna_base">nella sua fabbrica</add> lavoriamo per esso con amore <add place="above" hand="#penna_base">e con</add> fantasia; <subst><add place="above" hand="penna_nera">che son due che spesso ci dimentichiamo di tener d’occhioc: e così generano un gramo lor figlio:</add><del>due mezzi che avranno da noi diligente attenzione e che talora generano il loro primo genito un cattivo figlio</del></subst> il sogno: il quale <subst><add place="above" hand="#penna_nera">raggiungendo una sua infelice pubertà si trasforma in Demenza.</add><del rend="strikethrough">riscattato dal <gap reason="illegible"/>ha trasformato nella demenza</del></subst>
+            </seg>
+         </p>
+         <p n="1.9">
+            <seg corresp="11">
+               Si desume <subst><add place="above" hand="#penna_base">da queste </add><del rend="strikethrough">dalle</del></subst>brevi espressioni che a un dipresso<del rend="strikethrough">e</del>, in prima e grossa approssimazione, ho chiamato dato (con <subst><add place="above" hand="#penna_base">l’epiteto</add><del rend="strikethrough">l'aggiunta</del></subst> di ‘psicologico-storico’ se vi <subst><add place="inline" hand="#penna_base">piace</add><del>va</del></subst>) il com plesso delle nostre nozioni cioè delle nozioni attuali di un <subst><add place="above" hand="#penna_base">uomo</add><del rend="strikethrough">individuo</del></subst>, o di più <subst><add place="above" hand="penna_base">uomini</add><del rend="strikethrough">individui</del></subst>, o di tutti gli uomini. 
+            </seg>
+         </p>
+         <p n="1.10">
+            <seg corresp="12">
+              [Circa la possibilità <add place="above" hand="#penna_base">e i limiti</add> di un ‘senso comune’, di una ‘nozione comune’, <add place="above" hand="#penna_base">‘conoscenza comune’</add>, ‘volontà comune’, ecc.  estesa a più uomini non intendo qui dire.]  
+            </seg>
+         </p>
+         <p n="1.11">
+            <seg corresp="13">
+               Ho chiamato sistema esterno l’ignoto supposto e <subst><add place="inline" hand="#penna_base">costruito</add><del rend="strikethrough">riempi<gap reason="strikethrough"/></del></subst> a volta a volta dagli idolib della superstizione, dalle “hypotheses” della scienza, che alcuno disse<add place="above" hand="#lapis">, forse troppo securamente giudicando,</add> per conto suo ‘non fingere’; dalla fede<add place="above" hand="#penna_base">, dall’entusiasmo,</add> dalle costruzioni insomma, che costituiscono <add place="above" hand="#penna_base">la trama della volontà d’indagine</add>. È evidente che nel dato comprendo tutte le integrazioni lecite di quelli che sogliono chiamarsi <add place="above" hand="#penna_base">propriamente</add> i dati scientifici <add place="above" hand="#penna_base">e storici</add>: p. e. la teoria della  evoluzione <add place="above" hand="#penna_base">(mutazione)</add> umana, se supportata da dati e teste di morto e ossi, ecc. o dall’osservazione <subst><add place="inline" hand="penna_base">storico-biologica</add><del>storica e biologica</del></subst>, è essa <subst><add place="above" hand="#penna_base">stessa già nel</add><del rend="strikethrough">un</del></subst> dato. Così la teoria della ereditarietà della tubercolosi <add place="above" hand="#penna_base">o dell’epilessia o delle tare nervose</add>, se ragionevolmente suffragata.
+            </seg>  
+         </p>
+         <p n="1.12">
+            <seg corresp="14">
+               <subst><add place="above" hand="#lapis">Operando</add><del>All' <gap reason="strikethrough"/></del></subst> <add place="above" hand="#lapis">alcuni de’ molti indagatori</add> nell’analisi del dato che è in fondo l’unica cosa analizzabile, <del>poi</del>ché al di fuori <add place="above" hand="#lapis">non è attualmente se non il</add> buio della notte, <add place="above" hand="#penna_nera">dove soltanto la nostra speranza e l’amor nostro pensano di poter incorrere un giorno</add>, <subst><add place="above" >alcune</add><del rend="strikethrough">molte</del></subst> idee fisse, <subst><add place="above" hand="#lapis">se talora</add><del rend="strikethrough">anche di</del></subst> di nobilissima origine, hanno <add place="above" hand="#lapis">qua e là</add> contristato la <add place="above" hand="#lapis">loro</add> mirabile attività<del rend="strikethrough">degli indagatori</del>: come certi pescatori che si ostinano a pescare in certi siti dove non levan che alghe melmose, o meglio come certi generali che si <subst><add>incaponiscono</add></subst> in un certo lor cánone;  e <del>non pensano che</del>mentre il loro cánone brilla nel cielo delle sette stelle, più fisso che mai, il mondo gira sette volte su sé stesso.</seg><seg corresp="15"> Così perdono le battaglie, <del>e</del><add place="above" hand="#penna_base">dopo di che</add> incolpano i generali avversari <add place="above" hand="#penna_nera">da cui sono stati battuti</add> di «non conoscere le <del rend="strikethrough">vere</del>regole della <add place="above" hand="#lapis">vera</add> <del>arte militare</del>strategia», <add place="above" hand="#lapis">della musica classica,</add> <subst><add place="above" hand="#lapis">insomma:</add><del></del></subst> essere degli arfasatti e dei
+               <subst><add place="inline" hand="#penna_base">pervenuti</add><del>parvenu</del></subst> della scienza strategica: insomma dei cattivi improvvisatori e dei dilettanti volgari.
+            </seg>
+         </p>
+         <p n="1.13">
+            <seg corresp="15">
+               Così <add place="above" hand="#lapis">malauguratamente</add> avviene a certi solenni maestri: di essere battuti dagli empirici e Copernico quanta roba non ha buttato a mare! e Galileo <add place="above" hand="#penna_base">l’acre e penetrante</add> empirista Mediceo-Lorenese quant’altra! e Bacone diede la stura a quell’empirismo che si chiama Impero Britannico.
+            </seg>
+         </p>
+      </body>
+   </text>
+</TEI>
