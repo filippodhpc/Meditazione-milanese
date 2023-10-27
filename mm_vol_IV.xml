@@ -24,7 +24,8 @@
                   <idno>Fondo Gadda-Roscioni, 6.16</idno>
                </msIdentifier>
                <msContents>
-                  <p>Il volume IV contiene la riscrittura dei primi tre capitoli e di parte del quarto della Meditazione milanese di Carlo Emilio Gadda, interamente realizzati tra il 14 luglio e il 18 agosto 1928</p>
+                  <p>Il volume IV contiene la riscrittura dei primi tre capitoli e di parte del quarto della Meditazione milanese di Carlo 
+                  Emilio Gadda, interamente realizzati tra il 14 luglio e il 18 agosto 1928</p>
                </msContents>
                <physDesc>
                   <objectDesc>
@@ -56,7 +57,9 @@
          </langUsage>
       </profileDesc>
       <encodingDesc>
-         <p>Si codifica qui la prima stesura della Meditazione milanese, marcando i singoli interventi correttori operati dall'autore (inserimenti, cancellazioni e sostituzioni), i relativi strumenti di scrittura e i segmenti passibili di confronto con la seconda incompiuta stesura.</p>
+         <p>Si codifica qui la prima stesura della Meditazione milanese, marcando i singoli interventi correttori operati dall'autore 
+         (inserimenti, cancellazioni e sostituzioni), i relativi strumenti di scrittura e i segmenti passibili di confronto con la seconda 
+         incompiuta stesura.</p>
          <variantEncoding method="parallel-segmentation" location="internal"/>
       </encodingDesc>
       <revisionDesc>
@@ -65,9 +68,13 @@
    </teiHeader>
    <text>
       <body>
-         <note type="postilla" place="margin_dx">14 luglio 1928 - sabato</note><note type="postilla">Paragrafo 1°: «Il dato e l’inizio dell’attività relatrice.»</note>
+         <note type="postilla" place="margin_dx">14 luglio 1928 - sabato</note><note type="postilla">Paragrafo 1°: «Il dato e l’inizio 
+         dell’attività relatrice.»</note>
          <p n="1.1">
-            <subst><add place="above" hand="lapis">Poi che</add><del rend="strikethrough"></del></subst> le nuvole sorgono, come sogni, dai monti e dalle foreste: diademate di folgori le montagne <app><rdg hand="#penna_base">attendono</rdg><rdg hand="lapis"><gap reason="unclear" extent="seven_letters"/></rdg></app> i battaglioni d’assalto: il soldato si ferma, guarda lontano e pensa: «Quali saranno i miei atti?»  Ma già sono.
+            <subst><add place="above" hand="lapis">Poi che</add><del rend="strikethrough"></del></subst> le nuvole sorgono, come sogni, 
+            dai monti e dalle foreste: diademate di folgori le montagne <app><rdg hand="#penna_base">attendono</rdg><rdg hand="lapis">
+            <gap reason="unclear" extent="seven_letters"/></rdg></app> i battaglioni d’assalto: il soldato si ferma, guarda lontano e pensa:
+            «Quali saranno i miei atti?»  Ma già sono.
          </p>
          <p n="1.2">
             <seg corresp="01">
@@ -76,30 +83,53 @@
          </p> 
          <p n="1.3">
             <seg corresp="02">
-               Ci chiediamo inoltre se sia possibile eleggere e se  sia in pronto alla scelta un criterio; se è possibile che un metodo sorregga <subst><add place="above" hand="#penna_base">e quasi preceda</add></subst> la permeante analisi o se è doverosa una conoscenza avanti la determinazione del metodo.
+               Ci chiediamo inoltre se sia possibile eleggere e se  sia in pronto alla scelta un criterio; se è possibile che un metodo 
+               sorregga <subst><add place="above" hand="#penna_base">e quasi preceda</add></subst> la permeante analisi o se è doverosa 
+               una conoscenza avanti la determinazione del metodo.
             </seg>
          </p>
          <p n="1.4">
-            Una perplessità siffatta s’è palesata nelle manifestazioni del pensiero. Si adduce a ragione della incompiutezza del “Tractaus de intellectus emendatione» di Benedetto Spinoza, il fatto ch’egli intuisse il fondamento della correzione non essere se non l’idea centrale della prima parte dell’Etica, o di tutta l’Etica, l'idea della unità. Il culmine della conoscenza era la scaturigine essa <subst><add place="above" hand="#lapis">e propria</add><del/></subst> del metodo.
+            Una perplessità siffatta s’è palesata nelle manifestazioni del pensiero. Si adduce a ragione della incompiutezza del “Tractaus 
+            de intellectus emendatione» di Benedetto Spinoza, il fatto ch’egli intuisse il fondamento della correzione non essere se non 
+            l’idea centrale della prima parte dell’Etica, o di tutta l’Etica, l'idea della unità. Il culmine della conoscenza era la 
+            scaturigine essa <subst><add place="above" hand="#lapis">e propria</add><del/></subst> del metodo.
          </p>
          <p n="1.5">
             <seg corresp="03">
-               In realtà la questione, posta così schematicamente in forma, è mal posta. Un metodo è già conoscenza <subst><add hand="#penna_base" place="above">ed</add><del/></subst> è ragione elettiva; presume nozioni, occlude una elaborazione critica. Se non le nozioni centrali di un aggruppamento conoscitivo, come potrebbe indicare l’esempio citato, presume almeno dei dati, dei termini di relazione.
+               In realtà la questione, posta così schematicamente in forma, è mal posta. Un metodo è già conoscenza <subst>
+               <add hand="#penna_base" place="above">ed</add><del/></subst> è ragione elettiva; presume nozioni, occlude una elaborazione 
+               critica. Se non le nozioni centrali di un aggruppamento conoscitivo, come potrebbe indicare l’esempio citato, presume almeno
+               dei dati, dei termini di relazione.
             </seg> 
-            Il metodo rivolgiamo a risparmiare fatica (adopero volutamente questa malgraziosa espressione) nell’imminente lavoro. Per esso respingiamo alcunché, scegliamo alcunché, così operando come nel truogolo forsennatamente il grifo maialesco ed i sensi, allorché separano il cibo possibile in cibo reale e in rifiuto.
+            Il metodo rivolgiamo a risparmiare fatica (adopero volutamente questa malgraziosa espressione) nell’imminente lavoro. Per esso 
+            respingiamo alcunché, scegliamo alcunché, così operando come nel truogolo forsennatamente il grifo maialesco ed i sensi, 
+            allorché separano il cibo possibile in cibo reale e in rifiuto.
          </p> 
          <p n="1.6">
             <seg corresp="04">
-               Da un punto di vista necessariamente psicologistico e storicistico è affermabile che ognuno di noi e la collettività stessa de’ nostri uomini e l’intero genere umano instituisce e deve instituire l’analisi iniziando un processo di afairesis: molto dopo verrà, se verrà, l’apodeixis. E il processo si attua nei modi e coi mezzi onde il topografo eseguisce la triangolazione d’un territorio. Da una base nota, resultante dei termini di relazione sufficienti, di distanze cioè e di angoli noti, si procede alla determinazione di punti ignoti. Questi servono alla lor volta come stazione o riferimento per la ricognizione ulteriore.
+               Da un punto di vista necessariamente psicologistico e storicistico è affermabile che ognuno di noi e la collettività stessa 
+               de’ nostri uomini e l’intero genere umano instituisce e deve instituire l’analisi iniziando un processo di afairesis: molto 
+               dopo verrà, se verrà, l’apodeixis. E il processo si attua nei modi e coi mezzi onde il topografo eseguisce la triangolazione
+               d’un territorio. Da una base nota, resultante dei termini di relazione sufficienti, di distanze cioè e di angoli noti, si 
+               procede alla determinazione di punti ignoti. Questi servono alla lor volta come stazione o riferimento per la ricognizione 
+               ulteriore.
             </seg>
          </p> 
          <p n="1.7">
             <seg corresp="05">
-               Se non che il terreno sul quale il geodeta <pb xml:id="c.17"/> fonda il suo teodolite è, rispetto ai fini che ci si propone, una salda, una univoca realità. E ancora: lo sviluppo della sua ricerca è uniforme e consente l’uso costante di strumenti costanti. Il terreno del filosofo è la mobile duna o la <subst><add place="above" hand="#lapis">palude</add><del rend="strikethrough">savana</del></subst> deglutitrice: o meglio la tolda di una nave reluttante contro nere tempeste. Ed è questa nave il «bateau ivre»<note type="nota_d'autore">È questo il titolo del celebre poema di Rimbaud, dov’egli ha raffigurato <choice><sic>sé</sic><corr>se</corr></choice> stesso.</note>  delle dissonanze umane, sul di cui ponte, non che osservare e riferire, è difficile reggersi.
+               Se non che il terreno sul quale il geodeta <pb xml:id="c.17"/> fonda il suo teodolite è, rispetto ai fini che ci si propone,
+               una salda, una univoca realità. E ancora: lo sviluppo della sua ricerca è uniforme e consente l’uso costante di strumenti 
+               costanti. Il terreno del filosofo è la mobile duna o la <subst><add place="above" hand="#lapis">palude</add>
+               <del rend="strikethrough">savana</del></subst> deglutitrice: o meglio la tolda di una nave reluttante contro nere tempeste. 
+               Ed è questa nave il «bateau ivre»<note type="nota_d'autore">È questo il titolo del celebre poema di Rimbaud, dov’egli ha 
+               raffigurato <choice><sic>sé</sic><corr>se</corr></choice> stesso.</note>  delle dissonanze umane, sul di cui ponte, non che 
+               osservare e riferire, è difficile reggersi.
             </seg>
          </p>
          <p n="1.8">
-               Questa prora <add place="above" hand="#penna_base">pensante</add> taglia mari strani e diversi: ed ora la stella è termine per la misura, ed ora, nella buia notte, il metodo non potrà riferirsi alla stella. Mobili sono i termini per il riferimento conoscitivo iniziale: diverso, continuamente diverso il processo. 
+            Questa prora <add place="above" hand="#penna_base">pensante</add> taglia mari strani e diversi: ed ora la stella è termine 
+            per la misura, ed ora, nella buia notte, il metodo non potrà riferirsi alla stella. Mobili sono i termini per il riferimento 
+            conoscitivo iniziale: diverso, continuamente diverso il processo. 
          </p>
          <p n="1.9">
             <seg corresp="07">
@@ -108,40 +138,114 @@
          </p>
          <p n="1.10">
             <seg corresp="08"> 
-               Primo: la nostra analisi ricever inizio da un nostro dato psicologico o storico, cioè personale ed ambientale<note type="nota_d'autore">Per 'ambiente' intendo elazioni infinite. Anche il isstema solare e al di là di esso la regione stellare a che esso appartiene. Anche i millenni ove sono sdraiati li aspetti o modi che ci coinvolgono.</note>, che si devolve in un flusso, che è in una velocità; che è labile, mobile. In quanto labile in sé per prima approssimazione noi lo intuiamo come un sistema in sé, vale a dire come qualcosa di non semplice in sé. In quanto mobile rispetto alla oscura esteriorità<note>Se l'esteriorià è percepita, è dato essa pure. mA è percepita o soltanto immaginata come pseudo-ragione integrante il dato? Comunque, io la penso come un 'al di fuori logico' o 'indistinto logico'. Vedasi più avanti la definizione dei limiti perfierici e di termini della ragione.</note>, di che ci rendiamo ad essere gli im[10v]precisi assertori, il dato nostro psicologico e storico ci par essere astratto e come vividamente nitificato da questo sistema esterno, o almeno immerso in una più vasta, se pure difforme realtà. E noi desideriamo appunto misurare il divario <app><rdg>variabile</rdg><rdg>mutevole</rdg></app><app><rdg>che intercede</rdg><rdg>intercedente</rdg></app> ad ogni attimo fra il nostro dato e l’inconosciuto che è oggetto di ricerca e d’amore. 
+               Primo: la nostra analisi ricever inizio da un nostro dato psicologico o storico, cioè personale ed ambientale
+               <note type="nota_d'autore">Per 'ambiente' intendo elazioni infinite. Anche il isstema solare e al di là di esso la regione 
+               stellare a che esso appartiene. Anche i millenni ove sono sdraiati li aspetti o modi che ci coinvolgono.</note>, che si 
+               devolve in un flusso, che è in una velocità; che è labile, mobile. In quanto labile in sé per prima approssimazione noi lo 
+               intuiamo come un sistema in sé, vale a dire come qualcosa di non semplice in sé. In quanto mobile rispetto alla oscura 
+               esteriorità<note>Se l'esteriorià è percepita, è dato essa pure. mA è percepita o soltanto immaginata come pseudo-ragione 
+               integrante il dato? Comunque, io la penso come un 'al di fuori logico' o 'indistinto logico'. Vedasi più avanti la 
+               definizione dei limiti perfierici e di termini della ragione.</note>, di che ci rendiamo ad essere gli imprecisi assertori, 
+               il dato nostro psicologico e storico ci par essere astratto e come vividamente nitificato da questo sistema esterno, o 
+               almeno immerso in una più vasta, se pure difforme realtà. E noi desideriamo appunto misurare il divario <app>
+               <rdg>variabile</rdg><rdg>mutevole</rdg></app><app><rdg>che intercede</rdg><rdg>intercedente</rdg></app> ad ogni attimo fra 
+               il nostro dato e l’inconosciuto che è oggetto di ricerca e d’amore. 
             </seg>
          </p>
          <p n="1.11">
             <seg corresp="09">
-            Secondo: a mano a mano che il processo conoscitivo si attua, venir deformandosi sia la parvenza psicologiche e storiche sia l’oscuro e indistinto sistema esterno. E dicendo del deformarsi non alludo più tosto a un cangiare storico del dato <add place="above" hand="lapis">o delle parvenze</add> che a un suo logico ed attuale derogarsi a significati nuovi, anche se cotto e misurato nella sua momentanea, supposta immobilità, nell’esser suo solo d’un attimo. 
+            Secondo: a mano a mano che il processo conoscitivo si attua, venir deformandosi sia la parvenza psicologiche e storiche sia 
+            l’oscuro e indistinto sistema esterno. E dicendo del deformarsi non alludo più tosto a un cangiare storico del dato 
+            <add place="above" hand="lapis">o delle parvenze</add> che a un suo logico ed attuale derogarsi a significati nuovi, anche se 
+            cotto e misurato nella sua momentanea, supposta immobilità, nell’esser suo solo d’un attimo. 
             </seg>
          </p>
          <p n="1.12">
-           Anche fuori del tempo noi vi scorgiamo attività e vincoli supermultipli gli uni agli altri. Il critico: «Ma la conoscenza si svolge come processo nel tempo, come sintesi nel tempo.» Rispondo: «Ve lo concedo. Non di ciò parlavamo. Dicevo: “Supposto per astrazione che noi potessimo vedere tutto il reale ‘extra-tempore<add place="inline" hand="#penna_base">m</add>’, come Leibniz immaginava possa vedere e veda di fatto la Mente Divina, il nostro dato ci apparirebbe multiplo in sé quanto agli aspetti o significati. Esso ci apparirebbe germine e pianta, effetto e causa, essere e divenire: ed essere oltre l’essere, e divenire oltre il divenire: e ci apparirebbe saturo d’una infinità di relazioni sopraordinate le une alle altre.» 
+           Anche fuori del tempo noi vi scorgiamo attività e vincoli supermultipli gli uni agli altri. Il critico: «Ma la conoscenza si 
+            svolge come processo nel tempo, come sintesi nel tempo.» Rispondo: «Ve lo concedo. Non di ciò parlavamo. Dicevo: “Supposto per 
+            astrazione che noi potessimo vedere tutto il reale ‘extra-tempore<add place="inline" hand="#penna_base">m</add>’, come Leibniz 
+            immaginava possa vedere e veda di fatto la Mente Divina, il nostro dato ci apparirebbe multiplo in sé quanto agli aspetti o 
+            significati. Esso ci apparirebbe germine e pianta, effetto e causa, essere e divenire: ed essere oltre l’essere, e divenire 
+            oltre il divenire: e ci apparirebbe saturo d’una infinità di relazioni sopraordinate le une alle altre.» 
          </p>
          <p n="1.13">
-           Per quanto riguarda l’inconosciuto sistema<note type="nota_d'autore">Nel corso della presente meditazione la parola sistema è usata, sia pure con più lata estensione, nel senso onde la si usa in matematica e in meccanica. Sistema è un insieme di enti che hanno proprietà comuni, se anche solo relativamente a un nostro momento conoscitivo. Così: sistema di punti, di rette, di curve. Sistemi deformabili, sistemi rigidi. Talvolta mi occorrerà di alludere a un sistema filosofico ma in tal caso il significato comune della parola apparirà con evidenza dal contesto. <add place="inline" hand="#lapis">Talvolta i due sensi coincideranno: p. e. ‘sistema esterno o integrante’.</add></note> esteriore, l’oscuro e <hi rend="italic">totale</hi> e desiderabile termine di riferimento <subst><add place="inline" hand="#penna_base">supremo</add><del>super vero</del></subst>, come possiamo scorgervi deformazioni se esso ci è ignoto? Ma la nostra fantasia (la nostra ragione, se volete) viene infaticabilmente plasmandolo e riplasmandolo secondo uno schema di percorrenza che par <subst><add place="inline" hand="#penna_base">quasi</add><del><gap reason="illegible"/></del></subst> adombrare la necessità d’una posizione antitetica al dato, in quanto da presso a quasi grado a grado un sistema siffatto si contrappone deformandosi alle stazioni o pause del dato <add place="above" hand="#lapis">deformantesi</add>. (Adopero i termini temporali come ‘schema’ - ‘successive’ - ‘stazioni’ in senso più diffusamente logico.) Così Cesare non dà tregua ai migranti Elveti. «Postero die castra ex eo loco movent. Idem facit Caesar.» 
+           Per quanto riguarda l’inconosciuto sistema<note type="nota_d'autore">Nel corso della presente meditazione la parola sistema è 
+            usata, sia pure con più lata estensione, nel senso onde la si usa in matematica e in meccanica. Sistema è un insieme di enti 
+            che hanno proprietà comuni, se anche solo relativamente a un nostro momento conoscitivo. Così: sistema di punti, di rette, di 
+            curve. Sistemi deformabili, sistemi rigidi. Talvolta mi occorrerà di alludere a un sistema filosofico ma in tal caso il 
+            significato comune della parola apparirà con evidenza dal contesto. <add place="inline" hand="#lapis">Talvolta i due sensi 
+            coincideranno: p. e. ‘sistema esterno o integrante’.</add></note> esteriore, l’oscuro e <hi rend="italic">totale</hi> e 
+            desiderabile termine di riferimento <subst><add place="inline" hand="#penna_base">supremo</add><del>super vero</del></subst>, 
+            come possiamo scorgervi deformazioni se esso ci è ignoto? Ma la nostra fantasia (la nostra ragione, se volete) viene 
+            infaticabilmente plasmandolo e riplasmandolo secondo uno schema di percorrenza che par <subst>
+            <add place="inline" hand="#penna_base">quasi</add><del><gap reason="illegible"/></del></subst> adombrare la necessità d’una 
+            posizione antitetica al dato, in quanto da presso a quasi grado a grado un sistema siffatto si contrappone deformandosi alle 
+            stazioni o pause del dato <add place="above" hand="#lapis">deformantesi</add>. (Adopero i termini temporali come ‘schema’ - 
+            ‘successive’ - ‘stazioni’ in senso più diffusamente logico.) Così Cesare non dà tregua ai migranti Elveti. «Postero die castra 
+            ex eo loco movent. Idem facit Caesar.» 
          </p>
          <p n="1.14">
             <seg corresp="10">
-               Circa la posizione del dato, sistema già esso, e del sistema esterno: e circa la lor disgiunzione, se necessaria o precaria o semplicemente opportuna, non voglio qui dire. Noto il fatto e lo giustifico naturalisticamente e storicisticamente per ciò che il dato almeno in qualche modo ci urta, cioè qualcosa sia pur malamente e imperfettamente ne conosciamo ‘realiter’: nel mentre il sistema esterno è un indistinto e alla sua fabbrica lavoriamo con fantasia e con amore: che son due che sempre bisognò tener d’occhio ché, a perderli di vista un <add place="above" hand="l#apis">solo</add><app><rdg>minuto</rdg><rdg>momento</rdg></app>, s’abbandonano subito ai loro istinti, dopo di che generano un gramo lor figlio, il Sogno: il quale, al raggiungere <app><rdg>una</rdg><rdg>la</rdg></app> sua infelice pubertà, si tramuta nella Demenza.
+               Circa la posizione del dato, sistema già esso, e del sistema esterno: e circa la lor disgiunzione, se necessaria o precaria 
+               o semplicemente opportuna, non voglio qui dire. Noto il fatto e lo giustifico naturalisticamente e storicisticamente per 
+               ciò che il dato almeno in qualche modo ci urta, cioè qualcosa sia pur malamente e imperfettamente ne conosciamo ‘realiter’: 
+               nel mentre il sistema esterno è un indistinto e alla sua fabbrica lavoriamo con fantasia e con amore: che son due che sempre
+               bisognò tener d’occhio ché, a perderli di vista un <add place="above" hand="l#apis">solo</add><app><rdg>minuto</rdg><rdg>
+               momento</rdg></app>, s’abbandonano subito ai loro istinti, dopo di che generano un gramo lor figlio, il Sogno: il quale, al 
+               raggiungere <app><rdg>una</rdg><rdg>la</rdg></app> sua infelice pubertà, si tramuta nella Demenza.
             </seg>
          </p>
          <p n="1.15">
-            La movibilità e deformabilità de’ fenomeni storici<note type="nota_d'autore">'Storici' nel senso più lato: p.e. i fatti astronomici, biologici, psicologici storicamente considerati. -</note> e la deformazione dell’oscuro sistema integrante<note type="nota_d'autore">Anche i gatti e i licheni e i metalli avranno un lor proprio 'oscuro sistema integrante'</note> son correlate alla movibilità del metodo della conoscenza, al flusso della attitudine, della vis conoscitiva: e ciò sia che pensiamo questo metodo come asserimento, e quasi volontà d’espressione, o come invece un più blando coordinare apprensioni fortuite, di che resulti il tessuto realtà. Non intendo qui proporre una scelta fra le due tesi diverse o fra le molteplici tesi possibili a questo riguardo. Intendo solo chiarire e concludere: il flusso fenomenale si identifica in una deformazione conoscitiva, in un ‘processo’ conoscitivo. Procedere, conoscere è <hi rend="italic">inserire alcunché nel reale</hi><note type="nota_d'autore">Alcunhcé, nel senso più lato: p.e. una nuova relazione, o una volontà coordinatrice che è a sua volta un gruppo di relazioni; o un 'criterion' elettivo; o altro. </note>, è, quindi, deformare il reale.
+            La movibilità e deformabilità de’ fenomeni storici<note type="nota_d'autore">'Storici' nel senso più lato: p.e. i fatti 
+            astronomici, biologici, psicologici storicamente considerati. -</note> e la deformazione dell’oscuro sistema integrante
+            <note type="nota_d'autore">Anche i gatti e i licheni e i metalli avranno un lor proprio 'oscuro sistema integrante'</note> 
+            son correlate alla movibilità del metodo della conoscenza, al flusso della attitudine, della vis conoscitiva: e ciò sia che 
+            pensiamo questo metodo come asserimento, e quasi volontà d’espressione, o come invece un più blando coordinare apprensioni 
+            fortuite, di che resulti il tessuto realtà. Non intendo qui proporre una scelta fra le due tesi diverse o fra le molteplici 
+            tesi possibili a questo riguardo. Intendo solo chiarire e concludere: il flusso fenomenale si identifica in una deformazione 
+            conoscitiva, in un ‘processo’ conoscitivo. Procedere, conoscere è <hi rend="italic">inserire alcunché nel reale</hi>
+            <note type="nota_d'autore">Alcunhcé, nel senso più lato: p.e. una nuova relazione, o una volontà coordinatrice che è a sua 
+            volta un gruppo di relazioni; o un 'criterion' elettivo; o altro. </note>, è, quindi, deformare il reale.
          </p>
          <p n="1.16">
             <seg corresp="11">
-               Dalle brevi espressioni infrascritte si desume che a un dipresso e in prima e più grossa approssimazione ho voluto designare con il nome di dato, e il nome confortar con l’epiteto di psicologico o storico o quale altrimenti vi piaccia, il complesso delle nostre nozioni, cioè delle nozioni attuali d’un uomo, o di più uomini, o di tutti gli uomini: d’un organismo o di più similari organismi. Circa ‘il senso comune’ cioè <add place="above" hand="penna_base">circa</add> il sussistere di una nozione comune, d’una conoscenza o volontà comune, estesa ai più od a tutti, <hi rend="italic">non intendo</hi> qui dire.
+               Dalle brevi espressioni infrascritte si desume che a un dipresso e in prima e più grossa approssimazione ho voluto 
+               designare con il nome di dato, e il nome confortar con l’epiteto di psicologico o storico o quale altrimenti vi piaccia, il 
+               complesso delle nostre nozioni, cioè delle nozioni attuali d’un uomo, o di più uomini, o di tutti gli uomini: d’un 
+               organismo o di più similari organismi. Circa ‘il senso comune’ cioè <add place="above" hand="penna_base">circa</add> il 
+               sussistere di una nozione comune, d’una conoscenza o volontà comune, estesa ai più od a tutti, <hi rend="italic">non intendo
+               </hi> qui dire.
             </seg>
          </p>
          <p n="1.17">
            <seg corresp="13">
-              Ho voluto designare con il nome di sistema esterno o sistema integrante l’ignoto intravisto o supposto o asserito, imprecisamente asserito: ché a volta a volta li uomini lo vestono di forme diverse: e la ‘religio’ di idoli e la scienza di ‘hypotheses’, che alcuno troppo securamente forse dicendo di sé, asseverò <add place="above" hand="#lapis">per suo conto</add> non ‘fingere’<note type="nota_d'autore">'Hypothese non fingo' disse l'assertore della energia di gravitazione. La qual energia pur commisurata a un di fatto <add place="above" hand="#lapis">dal punto di vista euristico</add></note>. La fede o l’entusiasmo o la fantasia o la paura o l’amore o la prassi etica o politica od altro, o tutto ciò insieme<note>Quando il lettore avrà qualche dimestichezza con il mio modo di fare, vedarà che con tali espressioni io voglio soltanto constatare dei fatti. Leggendo più oltre il paragrafo dei ‘limiti periferici’ del reale, osserverà che io duramente ammetto l’intrinseca e logica necessità di una sua giustificazione ‘quale che sia’ (sic.) Io dico in sostanza: «In qualche modo bisogna pur cavarsela: non si può pensare di non cavarsela in qualche modo, che ciò equivarrebbe al non-essere: ma siamo.» Ciò dico <hi rend="italic">non</hi> con intento etico, ché ben posseggo una mia non dispregevole Etica, ma nel senso d’una inemendabile constatazione teoretica.</note>, costituiscono insomma la trama della volontà e del bisogno di proporci questo sistema integrante: e talora una motivazione meramente fisiologica penso sia sufficiente ad esigerlo e delinearlo, il che accadrà decedendo verso forme biologiche inferne o verso la cosiddetta materia; per esempio verso i gatti; o verso uomini immersi appunto nella tenebra d’una quasi assoluta fisiologia. 
+              Ho voluto designare con il nome di sistema esterno o sistema integrante l’ignoto intravisto o supposto o asserito, 
+              imprecisamente asserito: ché a volta a volta li uomini lo vestono di forme diverse: e la ‘religio’ di idoli e la scienza 
+              di ‘hypotheses’, che alcuno troppo securamente forse dicendo di sé, asseverò <add place="above" hand="#lapis">per suo conto
+              </add> non ‘fingere’<note type="nota_d'autore">'Hypothese non fingo' disse l'assertore della energia di gravitazione. La 
+              qual energia pur commisurata a un di fatto <add place="above" hand="#lapis">dal punto di vista euristico</add></note>. La
+              fede o l’entusiasmo o la fantasia o la paura o l’amore o la prassi etica o politica od altro, o tutto ciò insieme<note>Quando
+              il lettore avrà qualche dimestichezza con il mio modo di fare, vedarà che con tali espressioni io voglio soltanto constatare 
+              dei fatti. Leggendo più oltre il paragrafo dei ‘limiti periferici’ del reale, osserverà che io duramente ammetto l’intrinseca
+              e logica necessità di una sua giustificazione ‘quale che sia’ (sic.) Io dico in sostanza: «In qualche modo bisogna pur 
+              cavarsela: non si può pensare di non cavarsela in qualche modo, che ciò equivarrebbe al non-essere: ma siamo.» Ciò dico 
+              <hi rend="italic">non</hi> con intento etico, ché ben posseggo una mia non dispregevole Etica, ma nel senso d’una 
+              inemendabile constatazione teoretica.</note>, costituiscono insomma la trama della volontà e del bisogno di proporci questo 
+              sistema integrante: e talora una motivazione meramente fisiologica penso sia sufficiente ad esigerlo e delinearlo, il che 
+              accadrà decedendo verso forme biologiche inferne o verso la cosiddetta materia; per esempio verso i gatti; o verso uomini 
+              immersi appunto nella tenebra d’una quasi assoluta fisiologia. 
            </seg>
          </p>
          <p n="1.18">
-            È evidente che nel dato comprendo già tutte le integrazioni lecite di <subst><add place="inline" hand="#penna_base">quei fatti</add><del><gap reason="illegible"/></del></subst> che soglion propriamente e comunemente chiamarsi i dati scientifici e storici: ad esempio è per me già dato la teoria della evoluzione (io dico mutazione) biologica, se <subst><add place="inline" hand="#penna_base">adeguatamente suffragata</add><del>suffragata adeguatamente</del></subst> da dati e teste di morto e ossi e fossili e insomma da un dovizioso bric-à-brac documentario, da un contesto probativo di illazioni e di fatti. Così <subst><add place="inline" hand="#penna_base">son</add><del>è</del></subst> dati la teoria della <app><rdg>ereditarietà</rdg><rdg>ereditabilità</rdg></app> della tubercolosi o dell’epilessia o delle menomazioni del sistema nervoso con le dovute note limitative, qualora <subst><add place="above" hand="#penna_base">risentano plausi e adeguati suffragi</add><del>siano adeguatamente suffragati</del></subst>. 
+            È evidente che nel dato comprendo già tutte le integrazioni lecite di <subst><add place="inline" hand="#penna_base">quei fatti
+            </add><del><gap reason="illegible"/></del></subst> che soglion propriamente e comunemente chiamarsi i dati scientifici e 
+            storici: ad esempio è per me già dato la teoria della evoluzione (io dico mutazione) biologica, se <subst>
+            <add place="inline" hand="#penna_base">adeguatamente suffragata</add><del>suffragata adeguatamente</del></subst> da dati e 
+            teste di morto e ossi e fossili e insomma da un dovizioso bric-à-brac documentario, da un contesto probativo di illazioni e 
+            di fatti. Così <subst><add place="inline" hand="#penna_base">son</add><del>è</del></subst> dati la teoria della <app>
+            <rdg>ereditarietà</rdg><rdg>ereditabilità</rdg></app> della tubercolosi o dell’epilessia o delle menomazioni del sistema 
+            nervoso con le dovute note limitative, qualora <subst><add place="above" hand="#penna_base">risentano plausi e adeguati 
+            suffragi</add><del>siano adeguatamente suffragati</del></subst>. 
          </p>
          <p n="1.19">
            <seg corresp="14">
