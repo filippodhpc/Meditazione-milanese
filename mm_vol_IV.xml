@@ -71,8 +71,8 @@
          <note type="postilla" place="margin_dx">14 luglio 1928 - sabato</note><note type="postilla">Paragrafo 1°: «Il dato e l’inizio 
          dell’attività relatrice.»</note>
          <p n="1.1">
-            <subst><add place="above" hand="lapis">Poi che</add><del rend="strikethrough"></del></subst> le nuvole sorgono, come sogni, 
-            dai monti e dalle foreste: diademate di folgori le montagne <app><rdg hand="#penna_base">attendono</rdg><rdg hand="lapis">
+            <subst><add place="above" hand="#lapis">Poi che</add><del rend="strikethrough"></del></subst> le nuvole sorgono, come sogni, 
+            dai monti e dalle foreste: diademate di folgori le montagne <app><rdg hand="#penna_base">attendono</rdg><rdg hand="#lapis">
             <gap reason="unclear" extent="seven_letters"/></rdg></app> i battaglioni d’assalto: il soldato si ferma, guarda lontano e pensa:
             «Quali saranno i miei atti?»  Ma già sono.
          </p>
@@ -156,7 +156,7 @@
             <seg corresp="09">
             Secondo: a mano a mano che il processo conoscitivo si attua, venir deformandosi sia la parvenza psicologiche e storiche sia 
             l’oscuro e indistinto sistema esterno. E dicendo del deformarsi non alludo più tosto a un cangiare storico del dato 
-            <add place="above" hand="lapis">o delle parvenze</add> che a un suo logico ed attuale derogarsi a significati nuovi, anche se 
+            <add place="above" hand="#lapis">o delle parvenze</add> che a un suo logico ed attuale derogarsi a significati nuovi, anche se 
             cotto e misurato nella sua momentanea, supposta immobilità, nell’esser suo solo d’un attimo. 
             </seg>
          </p>
@@ -190,7 +190,7 @@
                o semplicemente opportuna, non voglio qui dire. Noto il fatto e lo giustifico naturalisticamente e storicisticamente per 
                ciò che il dato almeno in qualche modo ci urta, cioè qualcosa sia pur malamente e imperfettamente ne conosciamo ‘realiter’: 
                nel mentre il sistema esterno è un indistinto e alla sua fabbrica lavoriamo con fantasia e con amore: che son due che sempre
-               bisognò tener d’occhio ché, a perderli di vista un <add place="above" hand="l#apis">solo</add><app><rdg>minuto</rdg><rdg>
+               bisognò tener d’occhio ché, a perderli di vista un <add place="above" hand="#lapis">solo</add><app><rdg>minuto</rdg><rdg>
                momento</rdg></app>, s’abbandonano subito ai loro istinti, dopo di che generano un gramo lor figlio, il Sogno: il quale, al 
                raggiungere <app><rdg>una</rdg><rdg>la</rdg></app> sua infelice pubertà, si tramuta nella Demenza.
             </seg>
@@ -212,7 +212,7 @@
                Dalle brevi espressioni infrascritte si desume che a un dipresso e in prima e più grossa approssimazione ho voluto 
                designare con il nome di dato, e il nome confortar con l’epiteto di psicologico o storico o quale altrimenti vi piaccia, il 
                complesso delle nostre nozioni, cioè delle nozioni attuali d’un uomo, o di più uomini, o di tutti gli uomini: d’un 
-               organismo o di più similari organismi. Circa ‘il senso comune’ cioè <add place="above" hand="penna_base">circa</add> il 
+               organismo o di più similari organismi. Circa ‘il senso comune’ cioè <add place="above" hand="#penna_base">circa</add> il 
                sussistere di una nozione comune, d’una conoscenza o volontà comune, estesa ai più od a tutti, <hi rend="italic">non intendo
                </hi> qui dire.
             </seg>
